@@ -7,7 +7,7 @@ export default function Footer() {
       <p>
         <a
           href="https://github.com/Radwa-Hafez/trial-weather-react"
-          target="_bla
+          target="_blank
         "
         >
           Open-source code
